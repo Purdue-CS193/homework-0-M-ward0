@@ -1,4 +1,12 @@
 ## Welcome to GitHub Pages
+# Meredith Ward's first CS193 Homework
+
+My favorite things about CS193
+- it's once a week
+- it will prepare me for CS180
+- the instructors are really friendly :)
+
+**HELLO HI HOWDY WELOCME**
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-**HELLO HI HOWDY WELOCME**
+
 # Header 1
 ## Header 2
 ### Header 3
